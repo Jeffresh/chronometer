@@ -1,4 +1,4 @@
-```c++
+
 
 #ifndef CHRONOMETER_HPP
 #define CHRONOMETER_HPP
@@ -34,4 +34,4 @@ private:
 
 #endif
 
-```
+
