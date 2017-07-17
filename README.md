@@ -10,7 +10,7 @@ creates and initialize de chronometer.
 start the chronometer.
 
 ### void stop();
-stop the chronomter.
+stop the chronometer.
 
 ### void reset();
 reset the values of the chronometer.
