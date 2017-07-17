@@ -3,11 +3,9 @@ A chronometer in c++ to take times easily
 
 ## Members:
 
-### chronometer() 
+### chronometer();
 creates and initialize de chronometer.
-```c++
-chronometer():active{false},t0{},t1{}{}
-```
+
 ### void run(); 
 start the chronometer.
 
